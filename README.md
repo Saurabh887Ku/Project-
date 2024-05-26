@@ -1,4 +1,4 @@
-![Picture3](https://github.com/Saurabh887Ku/Project-/assets/126568202/040a2ea0-fb78-445c-a1e6-450c818f1690)# Project-
+# Project-
 Mitigation Cyberbullying on Social Media Using ML &amp; DL
 # Screenshots of the Project
 ![Picturefirst](https://github.com/Saurabh887Ku/Project-/assets/126568202/7d4896d4-1eb5-4d34-94e4-39fd3ccf60c5)
